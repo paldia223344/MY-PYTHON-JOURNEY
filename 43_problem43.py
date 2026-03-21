@@ -1,3 +1,8 @@
+'''
+Write a function that takes a filename as input and returns True if the file exists and False otherwise.
+'''
+
+
 import os
 
 def check_file_exists(filename):
